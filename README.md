@@ -8,3 +8,6 @@ headquartered in Kenya with a team of more than 100 staff, focused on building p
 solutions for Africa’s dynamic transportation needs, from developing apps and web
 solutions to providing dedicated support for goods on the move.
 
+## Problem Statement
+The purpose of the project is build a model that predicts an accurate delivery time from picking up a package arriving at the final destination. 
+
